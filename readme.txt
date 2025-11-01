@@ -1,0 +1,1 @@
+ mvn exec:java '-Dexec.mainClass=com.hungster.MainRunner' '-Dexec.args=--runner=DirectRunner --input=./src/main/resources/ip.txt --output=./src/main/resources/op/op.txt'
